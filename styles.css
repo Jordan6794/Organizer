@@ -1,0 +1,115 @@
+body{
+    background-color: whitesmoke;
+}
+
+p{
+    border-bottom: 1px solid #dbdbdb;
+    margin: 0;
+    height: 30px;
+    /* height: 3.5% */
+}
+
+h1{
+    color: black;
+}
+
+/* Jquery related classes */
+.hidden{
+    visibility: hidden;
+}
+
+.header{
+    font-family: 'Libre Baskerville', serif;
+    background-color : white;
+    /* padding: 2% 0 3% 3%; */
+    padding: 30px 0 45px 45px;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.body-container{
+    font-family: 'Spline Sans', sans-serif;
+    /* padding: 5%; */
+    padding: 75px;
+}
+
+input[type='number']{
+    width: 45px;
+} 
+
+#activityInput{
+    width: 80%;
+}
+
+.time-header{
+    /* padding: 13.2% 0; */
+    padding: 25px 0;
+}
+
+#first-timestamp{
+    border-top: 1px solid #dbdbdb;
+}
+
+.table{
+    background-color: white;
+    /* height: 879px; */
+    /* height: 80%; */
+}
+
+.times{
+    padding: 0;
+    text-align: center;
+    border-top: 1px solid #dbdbdb;
+    border-left: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+}
+
+.activities-title{
+    /* padding: 4.33% 0; */
+    padding: 24px 0 25px;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.activities{
+    display: inline-block;
+    width: 300px;
+    padding: 0;
+    text-align: center;
+    border-top: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.title-activity{
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.odd{
+    background-color: #eeeeee;
+}
+
+.non-odd{
+    background-color: #c7c7c7;
+}
+
+.menu{
+    padding-left: 50px;
+}
+
+.menu-zone{
+    /* background-color: white; */
+    border: 1px solid #dbdbdb;
+}
+
+/* Menu part */
+.error{
+    color: red;
+}
+
+.menu{
+    
+}
